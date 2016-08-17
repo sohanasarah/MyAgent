@@ -1,0 +1,110 @@
+[19-Aug-2015 03:17:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): AES->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[19-Aug-2015 03:18:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): AES->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[19-Aug-2015 03:19:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): AES->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[19-Aug-2015 07:03:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[19-Aug-2015 19:50:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[22-Aug-2015 08:42:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[22-Aug-2015 08:42:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[22-Aug-2015 08:42:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[22-Aug-2015 08:42:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[23-Aug-2015 21:10:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(42): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[01-Sep-2015 06:14:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(46): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[01-Sep-2015 06:17:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[01-Sep-2015 06:17:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[01-Sep-2015 06:18:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[01-Sep-2015 06:18:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[01-Sep-2015 06:20:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[01-Sep-2015 06:21:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[01-Sep-2015 06:36:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[01-Sep-2015 06:37:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[01-Sep-2015 06:38:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(48): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
+[07-Sep-2015 19:11:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:135
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/command.php(72): DEK->encrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 135
+[14-Sep-2015 05:46:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invlid params!' in /home/easycomputer/public_html/myagent/class.php:149
+Stack trace:
+#0 /home/easycomputer/public_html/myagent/dec.php(71): DEK->decrypt()
+#1 {main}
+  thrown in /home/easycomputer/public_html/myagent/class.php on line 149
